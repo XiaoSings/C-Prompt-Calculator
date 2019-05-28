@@ -6,7 +6,7 @@
 #### *IMPORTANT NOTE*:
 ---
 ```
-Do not compile a lot of numbers, or else it might crush the program!
+Do not compile a lot of numbers, or else it might crash the program!
 ```
 
 
